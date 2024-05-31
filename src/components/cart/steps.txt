@@ -1,0 +1,2 @@
+Manage the cart with add, remove, and list items via the backend API.
+1 - we need to fetch user data 
