@@ -1,2 +1,3 @@
 Manage the cart with add, remove, and list items via the backend API.
 1 - we need to fetch user data 
+2-  send id and quantity  by axios  to api/add-to-card 
